@@ -17,16 +17,16 @@
 
 ##### POST:
 
-![alt text](screenshots/post_1.jpg 'POST')
+![alt text](screenshots/post success.PNG 'POST')
 
 ##### PUT:
 
-![alt text](screenshots/put_1.jpg 'PUT')
+![alt text](screenshots/put success.jpg 'PUT')
 
 ##### PATCH:
 
-![alt text](screenshots/patch_1.jpg 'PATCH')
+![alt text](screenshots/patch success.jpg 'PATCH')
 
 ##### GET:
 
-![alt text](screenshots/get_1.jpg 'GET')
+![alt text](screenshots/get success.jpg 'GET')
